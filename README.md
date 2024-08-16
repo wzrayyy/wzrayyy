@@ -4,7 +4,7 @@ My name is Arthur. I’m studying for a CS major and really love tech! You can c
 
 My main interest is in networking, but I do a little programming here and there. 💻
 
-I write code in C++, Python, and I'm currently trying to learn Rust. 🚀
+I know C++, Python, and I'm currently trying to learn Go. 🚀
 
 I have a lot of experience administering Linux machines and know my way around network engineering. 🛠️
 
