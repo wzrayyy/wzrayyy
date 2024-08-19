@@ -1,6 +1,6 @@
 <h1 align="center">𝚑𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎! 👋</h1>
 
-My name is Arthur. I’m studying for a CS major and really love tech! You can check out my university projects <a href="https://github.com/wzrayyy-university">here</a>.
+My name is Arthur. I’m studying for a CS major and really love tech!
 
 My main interest is in networking, but I do a little programming here and there. 💻
 
